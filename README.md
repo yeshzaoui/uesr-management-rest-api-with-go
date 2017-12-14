@@ -1,2 +1,2 @@
-# uesr-management-rest-api-with-go
+# User management rest api with go
 this is my first Rest api with go
